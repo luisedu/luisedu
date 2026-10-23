@@ -11,7 +11,7 @@ I build vision models end to end: research, training, and deployment on constrai
 - Data pipelines, evaluation, and error analysis
 - Privacy-preserving vision (face and license plate anonymization)
 - C++ image processing engine
-- 2D object detection models for retail execution checks and evaluation.
+- [2D object detection models for retail execution checks and evaluation](https://involves.com/en/stage/image-recognition/).
 - Price recognition and image quality evaluation.
 
 
