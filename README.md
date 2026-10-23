@@ -3,7 +3,7 @@
 
 **Computer Vision & Machine Learning Engineer** | PhD in Computer Science | 10+ years in computer vision
 
-I build vision models end to end: research, training, and deployment on constrained edge hardware or Cloud structures. My recent work covers monocular 3D detection, depth estimation, and model optimization (quantization, ONNX) for embedded inference.
+I build vision models end to end: research, training, and deployment on constrained edge hardware or Cloud structures. My recent work covers [monocular 3D detection, depth estimation, and model optimization (quantization, ONNX) for embedded inference](https://luna.systems/).
 
 ## What I work on
 - Object detection, segmentation, and 3D perception
