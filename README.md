@@ -1,5 +1,5 @@
-```markdown
-# Hi, I'm Luís 👋
+
+# Hi, I'm Luís
 
 **Computer Vision & Machine Learning Engineer** | PhD in Computer Science | 10+ years in computer vision
 
@@ -39,4 +39,4 @@ Python · PyTorch · Lightning · Hydra · Kornia · OpenCV · ONNX · C++ · Do
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-eduardo-ramos-de-carvalho-68308988/) · 
-```
+
