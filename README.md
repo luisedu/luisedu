@@ -26,7 +26,7 @@ I build vision models end to end: research, training, and deployment on constrai
 - [3D Object Recognition and Classification: A Systematic Literature Review](https://doi.org/10.1007/s10044-019-00804-4), *Pattern Analysis and Applications*, 22(4), 2019
 - [3D Segmentation Algorithms for Computerized Tomographic Imaging: A Systematic Literature Review](https://doi.org/10.1007/s10278-018-0101-z), *Journal of Digital Imaging*, 31(6), 2018
 - [Can the Use of Nonlinear Color Metrics Systematically Improve Segmentation?](https://seer.ufrgs.br/rita/article/view/VOL25_NR3_23/pdf), *RITA*, 25(3), 2018
-- Improving Graph-Based Image Segmentation Using Nonlinear Color Similarity Metrics, *International Journal of Image and Graphics*, 15(4), 2015
+- [Improving Graph-Based Image Segmentation Using Nonlinear Color Similarity Metrics](https://doi.org/10.1142/S0219467815500187) *International Journal of Image and Graphics*, 15(4), 2015
 - [Hybrid Color Segmentation Method Using a Customized Nonlinear Similarity Function](https://doi.org/10.1142/S0219467814500053), *International Journal of Image and Graphics*, 14(1-2), 2014
 
 **Technical reports (INCoD, UFSC)**
